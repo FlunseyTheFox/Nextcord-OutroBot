@@ -1,0 +1,5 @@
+nextcord
+ffmpeg
+json
+asyncio
+PyNaCl
